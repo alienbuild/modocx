@@ -2,7 +2,7 @@
 OpenCart integration into MODX Revolution via API. 
 
 ## Requirements
-To use this collection of snippets you will need to purchase an API for your OC store from https://opencart-api.com/. Follow the installation guide supplied by the third party API to install the service into your OpenCart store.
+To use this collection of snippets you will need to purchase an API for your OC store from https://opencart-api.com/. Follow the installation guide supplied by the third party API to install the service into your OpenCart store. Please note this collection is not complete and I believe the payment process is still outstanding. 
 
 ## Installation
 These snippets require two key settings to be setup. 
